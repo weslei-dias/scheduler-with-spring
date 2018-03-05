@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by rajeevkumarsingh on 02/08/17.
+ * Created by weslei.dias
  */
 @Component
 public class ScheduledTasks {
